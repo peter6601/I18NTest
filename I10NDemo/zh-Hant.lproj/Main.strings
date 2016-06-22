@@ -1,0 +1,39 @@
+/* Class = "UILabel"; text = "weight"; ObjectID = "0eB-H4-epk"; */
+"0eB-H4-epk.text" = "體重";
+
+/* Class = "UITextField"; placeholder = "enter your weight"; ObjectID = "4Fm-Xw-fTc"; */
+"4Fm-Xw-fTc.placeholder" = "請輸入您的體重";
+
+/* Class = "UILabel"; text = "currency"; ObjectID = "Ok5-6g-iJm"; */
+"Ok5-6g-iJm.text" = "花費";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "T3l-zq-5tb"; */
+"T3l-zq-5tb.text" = "日期";
+
+/* Class = "UILabel"; text = "weight"; ObjectID = "Vli-vj-gUW"; */
+"Vli-vj-gUW.text" = "體重";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "aSL-qR-8El"; */
+"aSL-qR-8El.text" = "日期";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "c1k-Pe-aPA"; */
+"c1k-Pe-aPA.text" = "姓名";
+
+/* Class = "UITextField"; placeholder = "enter your monay"; ObjectID = "dUq-CV-UPN"; */
+"dUq-CV-UPN.placeholder" = "輸入您的花費";
+
+/* Class = "UILabel"; text = "BMI"; ObjectID = "gIu-gL-pap"; */
+"gIu-gL-pap.text" = "BMI值";
+
+/* Class = "UILabel"; text = "BMI"; ObjectID = "iHf-CP-0g3"; */
+"iHf-CP-0g3.text" = "BMI值";
+
+/* Class = "UILabel"; text = "currency"; ObjectID = "nzD-Nw-VHC"; */
+"nzD-Nw-VHC.text" = "花費";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "s0T-2m-ska"; */
+"s0T-2m-ska.text" = "姓名";
+
+/* Class = "UIButton"; normalTitle = "upload"; ObjectID = "yYV-5R-B3K"; */
+"yYV-5R-B3K.normalTitle" = "更新";
+
